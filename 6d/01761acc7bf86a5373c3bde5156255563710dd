@@ -1,0 +1,19 @@
+test/mint/http1/conn_test.exs
+  s_73a4181f1353ee::t_728fd1f1b54e42 1276-1375
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "6d01761acc7bf86a5373c3bde5156255563710dd",
+  "prompts": {},
+  "sessions": {
+    "s_73a4181f1353ee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9e06d29f-5928-41c1-acd2-3dc530aa01e6",
+        "model": "unknown"
+      },
+      "human_author": "gdwoolbert3 <gwoolbert@movableink.com>"
+    }
+  }
+}
