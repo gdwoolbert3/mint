@@ -1,0 +1,14 @@
+lib/mint/http1.ex
+  h_5f83da88cecb16 754,769-772,946,1008,1010
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "868e24a9972afbe0aae77b9f538167e8c6dfe59d",
+  "prompts": {},
+  "humans": {
+    "h_5f83da88cecb16": {
+      "author": "gdwoolbert3 <gwoolbert@movableink.com>"
+    }
+  }
+}
