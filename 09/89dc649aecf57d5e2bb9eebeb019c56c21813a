@@ -1,0 +1,14 @@
+.dialyzer_ignore
+  h_5f83da88cecb16 2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "0989dc649aecf57d5e2bb9eebeb019c56c21813a",
+  "prompts": {},
+  "humans": {
+    "h_5f83da88cecb16": {
+      "author": "gdwoolbert3 <gwoolbert@movableink.com>"
+    }
+  }
+}
